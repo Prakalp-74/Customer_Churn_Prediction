@@ -17,7 +17,7 @@ The goal of this project is to analyze customer data, identify patterns behind c
 
 ## 🛠️ Tech Stack
 - **Programming Language:** Python  
-- **Libraries:** pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
+- **Libraries:** pandas, NumPy, Matplotlib, scikit-learn  
 - **Tools:** Jupyter Notebook  
 
 ---
