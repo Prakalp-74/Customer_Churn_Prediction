@@ -1,13 +1,13 @@
-# 📊 Customer Churn Prediction
+#  Customer Churn Prediction
 
-## 🚀 Overview
+##  Overview
 This project focuses on predicting customer churn using machine learning techniques. Customer churn is a critical problem for businesses, as retaining existing customers is often more cost-effective than acquiring new ones.
 
 The goal of this project is to analyze customer data, identify patterns behind churn behavior, and build a predictive model that helps businesses take proactive actions.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze customer data to identify key churn factors  
 - Perform data preprocessing and feature engineering  
 - Build and evaluate machine learning models  
@@ -15,14 +15,14 @@ The goal of this project is to analyze customer data, identify patterns behind c
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Programming Language:** Python  
 - **Libraries:** pandas, NumPy, Matplotlib, scikit-learn  
 - **Tools:** Jupyter Notebook  
 
 ---
 
-## 📂 Project Workflow
+##  Project Workflow
 
 ### 1. Data Collection
 - Used a customer dataset containing demographic and service-related information  
@@ -50,14 +50,14 @@ The goal of this project is to analyze customer data, identify patterns behind c
 
 ---
 
-## 📈 Results
+##  Results
 - Successfully built a model to predict customer churn  
 - Identified key factors influencing churn behavior  
 - Improved prediction performance using feature selection and tuning  
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ```bash
 # Clone the repository
